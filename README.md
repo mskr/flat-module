@@ -17,4 +17,4 @@ But that is not necessary!
 
 When you start coding, it is just one module. When it gets bigger, that module can spawn a new module. The two are siblings, fundamentally equal. But they can still work together, because the first module knows the second and vice-versa. You can keep them locally or on a git hoster. You can start from any one of them and retrieve all the others from their remote locations.
 
-When you start coding and need another already existing module, you just clone it from its remote right next to your module. That's you external dependency.
+When you start coding and need another already existing module, you just clone it from its remote right next to your module. That's your external dependency.
